@@ -1,3 +1,5 @@
 {
-  "extends": ["@nuxtjs"]
+  "extends": [
+    "github>unjs/renovate-config"
+  ]
 }
